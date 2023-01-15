@@ -1,0 +1,74 @@
+[
+    {
+        "index": 1,
+        "nombre": "Samsung S22 Ultra",
+        "precio": 200000,
+        "categoria": "Samsung",
+        "stock":3,
+        "imagen": "/images/S22 Ultraa.png",
+        "descripcion": "No te pierdas de un solo momento con el nuevo Samsung Galaxy S22 Ultra. Con su cámara de 108+10+12+10 MP; sacá fotos nítidas y claras tanto de día como de noche. El Samsung Galaxy S22 Ultra posee un procesador Octa-Core (2.99GHz,2.4GHz,1.7GHz) para que disfrutes de todas tus aplicaciones sin inconvenientes. Memoria interna de 256 GB."
+    },
+    {
+        "index": 2,
+        "nombre": "Samsung Galaxy Fold 4",
+        "precio": 350000,
+        "categoria": "Samsung",
+        "stock":7,
+        "imagen": "/images/Galaxy Fold 4.png",
+        "descripcion": "Sobre este producto: Fotografía profesional al alcance de tu mano con el nuevo Samsung Galaxy Z Fold 4; con cámara de 50+12+10 MP para explorar tu creatividad. Obtené los mejores resultados gracias a su procesador Octa-Core (3.18GHz,2.7GHz,2GHz), su memoria interna de 512 GB. Disfrutá de jugar; ver series o trabajar en una pantalla de full vision de 7.6"
+    },
+    {
+        "index": 3,
+        "nombre": "Samsung Galaxy A04",
+        "precio": 40000,
+        "categoria": "Samsung",
+        "stock":10,
+        "imagen": "/images/Galaxy A04.png",
+        "descripcion": "Fotografía profesional al alcance de tu mano con el nuevo Samsung Galaxy A04; con cámara de 50 + 2 MP para explorar tu creatividad. Obtené los mejores resultados gracias a su procesador Octa-Core (2.3GHz,1.8GHz), su memoria interna de 32 GB expandible a través de una MicroSd hasta 1TB. Disfrutá de jugar; ver series o trabajar en una pantalla de full vision de 6,5"
+    },
+    {
+        "index": 4,
+        "nombre": "Samsung Galaxy S21 FE 5G",
+        "precio": 150000,
+        "categoria": "Samsung",
+        "stock":9,
+        "imagen": "/images/Galaxy S21.png",
+        "descripcion": "Fotografía profesional al alcance de tu mano con el nuevo Samsung ; con cámara de 12+12+8 Mp para explorar tu creatividad. Obtené los mejores resultados gracias a su procesador Octa-Core (2.9GHz,2.8GHz,2.2GHz), su memoria interna de 128 GB expandible a través de una . Disfrutá de jugar; ver series o trabajar en una pantalla de full vision de 6.4"
+    },
+    {
+        "index": 5,
+        "nombre": "Iphone SE 3ra Gen",
+        "precio": 120000,
+        "categoria":"Iphone",
+        "stock":5,
+        "imagen": "/images/Iphone SE 3GEN.png",
+        "descripcion": "En Cell Max encontrá el iPhone SE de 3ra generación con 128 GB de memoria interna y procesador A15 Bionic"
+    },
+    {
+        "index": 6,
+        "nombre": "Motorola Edge 30",
+        "precio": 140000,
+        "categoria":"Motorola",
+        "stock":4,
+        "imagen": "/images/Motorola Edge 30.png",
+        "descripcion": "Fotografía profesional al alcance de tu mano con el nuevo Motorola Moto Edge 30; con cámara de 50+13+2 Mp para explorar tu creatividad. Obtené los mejores resultados gracias a su procesador Octa-Core 2.5 GHz, su memoria interna de 128 GB expandible a través de una . Disfrutá de jugar; ver series o trabajar en una pantalla de full vision de 6.55."
+    },
+    {
+        "index": 7,
+        "nombre": "Motorola G42",
+        "precio": 90000,
+        "categoria":"Motorola",
+        "stock":7,
+        "imagen": "/images/Motorola G42.png",
+        "descripcion": "No te pierdas de un solo momento con el nuevo Motorola Moto G42. Con su cámara de 50+8+2 Mp; sacá fotos nítidas y claras tanto de día como de noche. El Motorola Moto G42 posee un procesador Octa-Core 2.4 GHz para que disfrutes de todas tus aplicaciones sin inconvenientes. Memoria interna de 128 GB y expandible con una MicroSd hasta 1TB."
+    },
+    {
+        "index": 8,
+        "nombre": "Xiaomi Note 11",
+        "precio": 100000,
+        "categoria":"Xiaomi",
+        "stock":2,
+        "imagen": "/images/Xiaomi Note 11.png",
+        "descripcion": "No te pierdas de un solo momento con el nuevo Xiaomi Redmi Note 11. Con su cámara de 50+8+2+2 Mp; sacá fotos nítidas y claras tanto de día como de noche. El Xiaomi Redmi Note 11 posee un procesador Octa-Core 2.4 GHz para que disfrutes de todas tus aplicaciones sin inconvenientes. Memoria interna de 128 GB y expandible con una MicroSD hasta 1TB."
+    }
+]
